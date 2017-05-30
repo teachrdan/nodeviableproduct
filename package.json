@@ -1,0 +1,29 @@
+{
+  "name": "nodeviableproduct",
+  "version": "1.0.0",
+  "description": "An empty shell with which to make a Node-based MVP Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teachrdan/nodeviableproduct.git"
+  },
+  "keywords": [
+    "Node",
+    "MVP",
+    "CRUD",
+    "API"
+  ],
+  "author": "Dan TS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teachrdan/nodeviableproduct/issues"
+  },
+  "homepage": "https://github.com/teachrdan/nodeviableproduct#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
+  }
+}
